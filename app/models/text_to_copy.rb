@@ -1,0 +1,2 @@
+class TextToCopy < ApplicationRecord
+end
