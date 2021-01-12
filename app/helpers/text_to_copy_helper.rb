@@ -1,0 +1,2 @@
+module TextToCopyHelper
+end
